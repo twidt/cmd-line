@@ -1,5 +1,5 @@
 var game = require ("./game.js");
-var wordCons = require("./word.js");
+var wordCons = require("./words.js");
 var letterCons = require("./letter.js");
 var inquirer = require("inquirer");
 var randoWord = game.randoWord;
